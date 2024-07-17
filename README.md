@@ -1,2 +1,2 @@
-# Pulse-Rate-Calculator
+# Pulse-Rate-Measure-by-ExpEYES
 Pulse Rate

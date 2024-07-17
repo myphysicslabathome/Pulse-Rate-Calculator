@@ -1,2 +1,2 @@
-# Pulse-Rate-Measure-by-ExpEYES
+# Pulse-Rate-Measurement-by-ExpEYES
 Pulse Rate
